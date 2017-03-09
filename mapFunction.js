@@ -1,7 +1,4 @@
 //Implement your own version of the build-in array map function
-/*map function provides a callback function once for each element in an array, in order,
-  and constructs a new array from the results.callback
-*/
 
 function map(array, callback){
   var newArray =[];
